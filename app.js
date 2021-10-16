@@ -5,9 +5,9 @@ const port = 3000;
 app.get('/', (req, res) => {
   res.send(`
     <h1>Express Demo App</h1>
-    <h4>Message: Success</h4>
+    <h4>Message: Success Again</h4>
 
-    <p>Version 1.0</p>
+    <p>Version 2.0</p>
   `)
 })
 

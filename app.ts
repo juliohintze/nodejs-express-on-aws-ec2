@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
     <h1>Express Demo App</h1>
     <h4>Message: Success Again</h4>
 
-    <p>Version 2.0</p>
+    <p>Version 3.0</p>
   `)
 })
 
